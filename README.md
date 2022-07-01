@@ -1,5 +1,5 @@
 # Mapreduce-based-Grade-Analysis-System
-A grade analysis system based on MapReduce and hdfs.
+A grade analysis system based on MapReduce and HDFS.
 
 content of this project:
 
